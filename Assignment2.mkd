@@ -1,1 +1,44 @@
+# Linux commands assignment
+
+### Here are a few linux commands i researched for the assignment and their uses.
+
+* ## whoami  
+      prints the effective username of the current user when invoked
+
+* ## w
+       help you view the list of currently logged in users.
+
+* ## factor
+      used to print the prime factors of the given numbers, either given from command line or read from standard input.
+
+* ## ping
+       the ping is used to check whether the host is reachable or not over the internet protocol   
+
+* ## free
+       gives information about used and unused memory usage and swap memory of a system. By default, it displays memory in kb (kilobytes).
+
+* ## cal
+      used to see the calendar of a specific month or a whole year
+
+* ## bc
+      used for command line calculator. It is similar to basic calculator by using which we can do basic mathematical calculations      
+
+* ## man
+    used to display the user manual of any command that we can run on the terminal
+
+* ## ifconfig
+      to assign an address to a network interface or to configure or display the current network interface configuration information
+
+* ## expr
+       command in Unix evaluates a given expression and displays its corresponding output.
+
+![Screenshot (1)](https://user-images.githubusercontent.com/49108697/197650328-925eb628-d273-4c94-b191-ab990bdee4f1.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/49108697/197650476-d2638653-c303-4496-aebf-6430711939e9.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/49108697/197650489-06da10ff-d4e7-479a-9e01-c9593f5ded53.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/49108697/197650512-ba96fe56-091f-466c-9494-ad7acd21ee6b.png)
+
+
+
+
+
 
